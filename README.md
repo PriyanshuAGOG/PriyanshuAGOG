@@ -1,5 +1,5 @@
-<h1 align="center">Priyanshu Agog</h1>
-<h3 align="center">🚀 Tech Founder | AI Enthusiast | Full-Stack Developer | Automation Architect</h3>
+<h1 align="center">Priyanshu Agarwal</h1>
+<h3 align="center">🚀 Tech Founder | AI Enthusiast | Frontend Developer | Automation Architect</h3>
 
 <p align="center">
   <a href="https://priyanshudev.vercel.app" target="_blank"><strong>Portfolio</strong></a> •
@@ -12,7 +12,7 @@
 
 ### 👨‍💼 About Me
 
-I’m **Priyanshu Agog**, a tech entrepreneur and self-taught full-stack developer with a deep interest in **AI**, **automation**, and **building impactful digital products**. I specialize in combining **code** and **no-code tools** to create high-performance web applications and AI-powered systems.
+I’m **Priyanshu Agarwal**, a tech entrepreneur and self-taught frontend developer with a deep interest in **AI**, **automation**, and **building impactful digital products**. I specialize in combining **code** and **no-code tools** to create high-performance web applications and AI-powered systems.
 
 💼 I'm the founder of:
 - 🔹 [**Aesthetx**](https://www.aesthetx.tech) – a premium web & branding agency focused on modern, aesthetic-first digital design
@@ -22,6 +22,7 @@ I’m **Priyanshu Agog**, a tech entrepreneur and self-taught full-stack develop
 - A suite of **AI agents** for real estate and service businesses
 - Multiple SaaS tools focused on **lead generation**, **cold outreach**, and **AI-first productivity**
 - Scalable backend infrastructure using modern stacks
+- Building a social networking app PeerSpark For students
 
 🧠 Key Interests:
 - Artificial Intelligence & Machine Learning
@@ -85,11 +86,11 @@ I’m **Priyanshu Agog**, a tech entrepreneur and self-taught full-stack develop
 
 - 🔗 [LinkedIn](https://linkedin.com/in/priyanshuagog)
 - 🌐 [Portfolio](https://priyanshudev.vercel.app)
-- 📨 Email: agog.priyanshu@gmail.com
+- 📨 Email: chat.priyanshuag@gmail.com
 
 ---
 
 <p align="center">
   <b>“Build boldly. Break limits. Execute relentlessly.”</b><br/>
-  <em>— Priyanshu Agog</em>
+  <em>— Priyanshu Agarwal</em>
 </p>
